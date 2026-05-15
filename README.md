@@ -69,7 +69,7 @@ My approach combines:
 ## 🏆 Featured Projects
 
 ### 1. **Forge** — Config-Driven Runtime Engine
-**Repository:** [github.com/Raghav-305/forge](https://github.com/Raghav-305/forge)
+**Repository:** [github.com/Raghav-305/forge](https://github.com/Raghav-305/forge) ⭐
 
 A production-ready application engine that dynamically renders UIs from JSON configurations. Built as a runtime renderer enabling rapid app deployment without code changes.
 
@@ -100,7 +100,7 @@ A production-ready application engine that dynamically renders UIs from JSON con
 ---
 
 ### 2. **LexiScan Auto** — Intelligent Legal Document Processor
-**Repository:** [github.com/Raghav-305/lexiscan-auto](https://github.com/Raghav-305/lexiscan-auto)
+**Repository:** [github.com/Raghav-305/lexiscan](https://github.com/Raghav-305/lexiscan) ⭐
 
 A sophisticated full-stack system for automated legal document analysis using hybrid OCR and custom-trained NER models.
 
@@ -132,7 +132,7 @@ A sophisticated full-stack system for automated legal document analysis using hy
 ---
 
 ### 3. **NagrikAI** — Government Services CRM Platform
-**Repository:** [github.com/Raghav-305/nagrik-ai](https://github.com/Raghav-305/nagrik-ai)
+**Repository:** [github.com/Raghav-305/NagrikAi](https://github.com/Raghav-305/NagrikAi) ⭐
 
 A comprehensive citizen complaint management platform for government agencies, featuring AI-powered analysis, geospatial visualization, and real-time analytics.
 
@@ -174,7 +174,7 @@ A comprehensive citizen complaint management platform for government agencies, f
 ---
 
 ### 4. **VeriLens** — Deepfake Detection System
-**Repository:** [github.com/Raghav-305/verilens](https://github.com/Raghav-305/verilens)
+**Repository:** [github.com/Raghav-305/hackmol](https://github.com/Raghav-305/hackmol) ⭐
 
 Advanced deepfake detection engine leveraging perceptual hashing and deep learning to identify manipulated images with high accuracy.
 
